@@ -2,7 +2,7 @@
     "name": "Todo List App",
     "short_name":"Todo App",
     "description":"Web Appplication Todo List",
-    "start_url":"http://localhost:3000/index.html",
+    "start_url":"https://martha-bls.github.io/pwa2/",
     "theme_color": "#317EFB",
     "background_color":"#317EFB",
     "display" : "minimal-ui",
